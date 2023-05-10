@@ -2,7 +2,7 @@
 CLI para operações relacionadas aos resources do ID Magalu.
 
 ## Instalação do CLI
-- Realizar download do arquivo de acordo com o sistema operacional na página [Releases](https://github.com/dadonasll/id-magalu-cli/releases);
+- Realizar download do arquivo de acordo com o sistema operacional na página [Releases](https://github.com/luizalabs/id-magalu-cli/releases);
 - Renomear arquivo para `idm`;
 
 ### Linux

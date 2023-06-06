@@ -1,0 +1,28 @@
+### Go ###
+# Dependency directories
+vendor/
+# Output of the go coverage tool
+*.out
+*.html
+*.htm
+*.sum
+### Visual Studio Code ###
+.vscode/
+### Git ###
+.git/
+### Enviroment ###
+.env
+.env.*
+*env.json
+*credentials.json
+env.sh
+### Docs ###
+docs/
+### SonarQube ###
+.scannerwork/
+### Other Files ###
+.idea
+debug/
+__debug_bin
+gen_auto_policy.csv
+fakeRoutesTest.yaml

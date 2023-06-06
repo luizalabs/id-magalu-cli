@@ -46,3 +46,10 @@ Para saber a lista completa de atributos que é possível alterar basta consulta
 ```
 idm client update -h
 ```
+
+### API Products
+#### Listando API Products
+O comando a seguir retorna a lista de API Products que o usuário possui:
+```
+idm api-product list
+```

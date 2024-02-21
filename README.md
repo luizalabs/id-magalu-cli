@@ -41,7 +41,7 @@ idm scope list --order-by api-product
 #### Criando Clients
 O comando a seguir cria um novo client:
 ```
-idm client create --name 'client-name' --description 'Client Description' --terms-of-use 'http://terms.com.br' --privacy-term 'http://term.com.br' --icon 'http://icon.com/icon.png' --redirect-uris 'https://redirect1.com https://redirect2.com' --scopes 'scope-x scope-y' --reason 'Scopes needed by UI to...' --audience 'public' --access-token-exp 300 --always-require-login true'
+idm client create --name 'client-name' --description 'Client Description' --terms-of-use 'http://terms.com.br' --privacy-term 'http://term.com.br' --icon 'http://icon.com/icon.png' --redirect-uris 'https://redirect1.com https://redirect2.com' --scopes 'scope-x scope-y' --reason 'Scopes needed by UI to' --audience 'public' --access-token-exp 300 --always-require-login true'
 ```
 Detalhes dos atributos para criação de um client
 ```

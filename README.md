@@ -69,7 +69,7 @@ idm client create -h
 #### Adicionando scopes ao clients
 O comando a seguir adiciona scopes ao client:
 ```
-idm client add-scope --client-uuid 'XXXXXX-XXXf-4XX2-8XXa9-37cXXXXXXd09' --scopes 'scope-x scope-y' --reason 'My client needs this scope because...'
+idm client add-scope --client-uuid 'XXXXXX-XXXf-4XX2-8XXa9-37cXXXXXXd09' --scopes 'scope-x scope-y' --reason 'My client needs this scope because'
 ```
 Detalhes sobre os atributos de scopes para adição no client
 ```
